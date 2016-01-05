@@ -3,16 +3,16 @@
 ### APP Android para Hora do Almoço
 
 
-1 - Controlador
-1 - Matador
+1 - Cliente
+1 - Scrum Master
 8 - Trabalhadores
 
 -----------------------------------------------------------------------
 
-Cartas de Missão
-Cartas de Mágica
+( 18 ) Cartas de Backlog
+( 15 ) Cartas de Sprint
+( 16 ) Cartas de Codigo
 
 Controle de Tempo
-
 
 ##Regras
