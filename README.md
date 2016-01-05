@@ -9,10 +9,12 @@
 
 -----------------------------------------------------------------------
 
-( 18 ) Cartas de Backlog
-( 15 ) Cartas de Sprint
-( 16 ) Cartas de Codigo
+( 18 ) Cartas de Impedimento
+( 15 ) Cartas de Codigo
+( 16 ) Cartas de tarefa
 
-Controle de Tempo
+Controle de Tempo (Sprint)
+
+no final da rodada verificar se terá Reunião ou Entrega.
 
 ##Regras
