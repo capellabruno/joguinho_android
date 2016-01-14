@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\GameScrumMaster\obj\Debug\__library_projects__\Game.Domain\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\GameScrumMaster\obj\Debug\__library_projects__\Game.Negoc\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\GameScrumMaster\obj\Debug\__library_projects__\Game.Domain\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\GameScrumMaster\obj\Debug\__library_projects__\Game.Negoc\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\GameScrumMaster\obj\Debug\__library_projects__\Game.Domain.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\GameScrumMaster\obj\Debug\__library_projects__\Game.Negoc.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

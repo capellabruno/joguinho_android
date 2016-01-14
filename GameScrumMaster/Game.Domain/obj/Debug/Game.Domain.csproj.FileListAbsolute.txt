@@ -1,0 +1,13 @@
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Domain\bin\Debug\Game.Domain.dll
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Domain\bin\Debug\Game.Domain.pdb
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Domain\bin\Debug\Game.Domain.apk
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Domain\bin\Debug\Game.Domain-Signed.apk
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Domain\obj\Debug\Game.Domain.dll
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Domain\obj\Debug\Game.Domain.pdb
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Domain\obj\Debug\android\bin\Game.Domain.apk
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Domain\obj\Debug\res\values\strings.xml
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Domain\obj\Debug\R.cs.flag
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Domain\obj\Debug\uploadflags.txt
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Domain\obj\Debug\Game.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Domain\obj\Debug\Game.Domain.dll.mdb
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Domain\bin\Debug\Game.Domain.dll.mdb

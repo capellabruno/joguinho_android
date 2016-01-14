@@ -1,0 +1,11 @@
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\GameScrumMaster\obj\Debug\assemblies\GameScrumMaster.dll
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\GameScrumMaster\obj\Debug\assemblies\Game.Domain.dll
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\GameScrumMaster\obj\Debug\assemblies\Game.Negoc.dll
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\GameScrumMaster\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\GameScrumMaster\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\GameScrumMaster\obj\Debug\assemblies\System.Core.dll
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\GameScrumMaster\obj\Debug\assemblies\System.dll
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\GameScrumMaster\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\GameScrumMaster\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\GameScrumMaster\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\GameScrumMaster\obj\Debug\assemblies\System.ServiceModel.Internals.dll

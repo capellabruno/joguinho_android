@@ -1,0 +1,4 @@
+GameScrumMaster.MainActivity, GameScrumMaster;md5e74b80deaba7d58778265994ead7ab5e.MainActivity
+GameScrumMaster.MainActivity, GameScrumMaster, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e74b80deaba7d58778265994ead7ab5e.MainActivity
+GameScrumMaster.MainActivity;md5e74b80deaba7d58778265994ead7ab5e.MainActivity
+gamescrummaster.MainActivity;md5e74b80deaba7d58778265994ead7ab5e.MainActivity

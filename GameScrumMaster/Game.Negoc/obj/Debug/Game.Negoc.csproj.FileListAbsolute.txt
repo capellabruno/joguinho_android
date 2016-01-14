@@ -1,0 +1,15 @@
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Negoc\bin\Debug\Game.Negoc.dll
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Negoc\bin\Debug\Game.Negoc.pdb
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Negoc\bin\Debug\Game.Negoc.apk
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Negoc\bin\Debug\Game.Negoc-Signed.apk
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Negoc\obj\Debug\Game.Negoc.dll
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Negoc\obj\Debug\Game.Negoc.pdb
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Negoc\obj\Debug\android\bin\Game.Negoc.apk
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Negoc\obj\Debug\res\values\strings.xml
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Negoc\obj\Debug\R.cs.flag
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Negoc\obj\Debug\uploadflags.txt
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Negoc\bin\Debug\Game.Domain.dll
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Negoc\bin\Debug\Game.Domain.pdb
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Negoc\obj\Debug\Game.Negoc.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Negoc\obj\Debug\Game.Negoc.dll.mdb
+C:\Users\Bruno\Documents\GitHub\joguinho_android\GameScrumMaster\Game.Negoc\bin\Debug\Game.Negoc.dll.mdb
