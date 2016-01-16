@@ -1,0 +1,5 @@
+*.dll
+*.suo
+GameScrumMaster/Game.Domain/bin/Debug/Game.Domain.pdb
+*.mdb
+GameScrumMaster/Game.Domain/bin/Debug/Game.Domain.dll
