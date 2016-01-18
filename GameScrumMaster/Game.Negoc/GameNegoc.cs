@@ -22,5 +22,25 @@ namespace Game.Negoc
         {
             throw new NotImplementedException();
         }
+        
+         public void MontarEquipe(bool EhLiderEquipe){
+            throw new NotImplementedException(); 
+         }
+        
+        public void AdministrarReuniao(){
+            throw new NotImplementedException();
+        }
+        
+        public void TeveEntrega(){
+            throw new NotImplementedException();
+        }
+        
+        public void TeveImpedimento(){
+            throw new NotImplementedException();
+        }
+        
+        public void DarAdvertencia(){
+            throw new NotImplementedException();
+        }
     }
 }
