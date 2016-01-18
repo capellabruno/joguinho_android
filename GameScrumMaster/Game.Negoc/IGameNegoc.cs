@@ -20,7 +20,26 @@ namespace Game.Negoc
         void AddPeople(Pessoa people);
 
         void CreateTable(RoomGame Game);
-
+        
+        /////////////////Scrum Master/////////////////////////////
+        /*
+            Funções do ScrumMaster
+    
+            Montar Equipe (selecionar um lider de equipe)
+            Administrar Reunião
+            Verificar Entrega e Impedimento
+            Indicar Advertencia ao Programador
+        
+        */
+        void MontarEquipe(bool EhLiderEquipe);
+        
+        void AdministrarReuniao();
+        
+        void TeveEntrega();
+        
+        void TeveImpedimento();
+        
+        void DarAdvertencia();
 
     }
 }
