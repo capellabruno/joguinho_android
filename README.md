@@ -18,3 +18,10 @@ Controle de Tempo (Sprint)
 no final da rodada verificar se terá Reunião ou Entrega.
 
 ##Regras
+
+##Funções ScrumMaster
+
+####Montar Equipe (selecionar um lider de equipe)
+####Administrar Reunião
+####Verificar Entrega e Impedimento
+####Indicar Advertencia ao Programador
